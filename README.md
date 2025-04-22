@@ -1,6 +1,6 @@
 # Digital_Clock_Spanish
 
-Este es un portafolio básico personal desarrollado con HTML, CSS y JavaScript.
+Este es un proyecto, que consiste en un reloj digital desarrollado con HTML, CSS y JavaScript.
 
 ## Índice
 - [Descripción](#descripción)
