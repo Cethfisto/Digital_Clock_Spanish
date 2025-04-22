@@ -23,7 +23,7 @@ Este es mi primer proyecto sencillo, consiste en un reloj digital donde marca la
 
 ## Uso
 
-Abre el archivo `DigitalClock.html` en tu navegador para ver el portafolio.
+Abre el archivo `DigitalClock.html` en tu navegador para ver el reloj digital.
 
 ## Tecnologías
 
