@@ -5,7 +5,6 @@ Este es un proyecto, que consiste en un reloj digital desarrollado con HTML, CSS
 ## Índice
 - [Descripción](#descripción)
 - [Características](#características)
-- [Instalación](#instalación)
 - [Uso](#uso)
 - [Tecnologías](#tecnologías)
 - [Contribuciones](#contribuciones)
